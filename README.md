@@ -8,3 +8,4 @@ The HR Analytics Dashboard provides an interactive visualization of key metrics 
 - Performance Ratings: Department-wise breakdown of employee performance.
 - Education Field Distribution: Visual representation of employees' education backgrounds.
 - Job Satisfaction: Ratings segmented by job roles to understand employee contentment.
+![Screenshot 2024-11-20 191058](https://github.com/user-attachments/assets/e59169e4-f1fd-4192-b6d8-a5c4e9210fdc)
